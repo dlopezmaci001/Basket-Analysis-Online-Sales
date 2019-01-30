@@ -13,7 +13,7 @@ library(plyr)
 
 # Load File
 
-retail <- read.csv2("C:/Users/Daniel/Desktop/Nimerya/Online Retail/Online.Retail.csv",dec=".")
+retail <- read.csv2("YOUR PATH/Online.Retail.csv",dec=".")
 
 # Transform variables
 
